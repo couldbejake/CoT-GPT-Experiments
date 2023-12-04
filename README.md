@@ -7,3 +7,5 @@ Install
 1. `npm i`
 2. Edit `gpt.js` and add an API key.
 3. Run main.js
+
+It takes a bit of time to run, so wait until the prompt `>` can be seen before typing a message
