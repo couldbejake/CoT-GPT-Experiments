@@ -9,3 +9,6 @@ Install
 3. Run main.js
 
 It takes a bit of time to run, so wait until the prompt `>` can be seen before typing a message
+
+TODO:
+- Make GPT-4 rewrite their message multiple times regarding the observer's opinions
