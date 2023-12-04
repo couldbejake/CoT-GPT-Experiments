@@ -23,7 +23,7 @@ async function main(){
 
         var bot_response = await convo.compute()
         convo.addSystem(bot_response)
-        console.log(bot_response.green)
+        console.log("GPT: " + bot_response.green)
     
 
         var observer = new Observer(convo.conversationHistory)
