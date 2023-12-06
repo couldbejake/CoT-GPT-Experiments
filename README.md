@@ -12,3 +12,4 @@ It takes a bit of time to run, so wait until the prompt `>` can be seen before t
 
 TODO:
 - Make GPT-4 rewrite their message multiple times regarding the observer's opinions
+- Test second observer, or observer of observer
