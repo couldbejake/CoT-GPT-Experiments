@@ -3,7 +3,7 @@ Generating GPT thoughts after both the user and model response, in an attempt to
 
 In this particular setup, I attempt to make GPT speak in a more conversationally human way
 
-<img src="https://github.com/couldbejake/ChatAgent/blob/main/chatagent.png?raw=true">
+<img src="https://github.com/couldbejake/CoT-GPT-Experiments/blob/main/thoughts/thoughts.png?raw=true">
 
 Install
 1. `npm i`
