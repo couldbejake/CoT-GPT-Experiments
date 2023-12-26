@@ -3,9 +3,9 @@ A bunch of mini-experiments with GPT attempting to augment functionality.
 
 `Lookup`: In this particular setup, I reiterate information via GPT-3.5 to GPT before GPT-4 responds.
 
-`Thoughts`: In this particular setup, I attempt to make GPT speak in a more conversationally human way
+`Thoughts`: In this particular setup, I attempt to make GPT speak in a more conversationally human way.
 
-`Debate`: In this particular setup, I use chain-of-thought to generate step by step arguments for an argument.
+`Debate`: In this particular setup, I use chain-of-thought to generate step by step arguments for a debate.
 
 ## Install
 
