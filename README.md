@@ -1,4 +1,4 @@
-# Chain-of-thoughts GPT experiments
+# Chain-of-thought GPT experiments
 A bunch of mini-experiments with GPT attempting to augment functionality.
 
 `Lookup`: In this particular setup, I reiterate information via GPT-3.5 to GPT before GPT-4 responds.
