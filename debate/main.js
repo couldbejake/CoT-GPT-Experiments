@@ -20,7 +20,7 @@ async function main(){
 
         convo.addSystem(prompts.summary + bot_response2)
 
-        var bot_response = await convo.compute()
+        var bot_response = await convo.compute("gpt-4-1106-preview")
         convo.addSystem(bot_response)
         console.log("GPT: " + bot_response.green)
 

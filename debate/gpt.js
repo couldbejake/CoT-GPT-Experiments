@@ -1,15 +1,15 @@
 const OpenAI = require('openai')
 
 const openai = new OpenAI({
-    apiKey: "<OPEN AI KEY>"
+    apiKey: "<OPEN AI API KEY>"
 });
 
 class GPT {
-    compute(conversationHistory){
+    compute(conversationHistory, model){
         return new Promise(async (resolve, reject) => {
             openai.chat.completions.create({
                 messages: conversationHistory,
-                model: 'gpt-3.5-turbo', // requires GPT-4
+                model: model, // requires GPT-4
             }).then((chatCompletion) => {
                 resolve(chatCompletion.choices[0].message.content)
             }).catch((error) => {
