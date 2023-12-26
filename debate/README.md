@@ -1,7 +1,5 @@
-# "thoughts"
-Generating GPT thoughts after both the user and model response, in an attempt to guide the conversation.
-
-In this particular setup, I attempt to make GPT speak in a more conversationally human way
+# Debate
+A setup for making GPT create compelling arguments using chain-of-thought.
 
 <img src="https://github.com/couldbejake/ChatAgent/blob/main/chatagent.png?raw=true">
 
