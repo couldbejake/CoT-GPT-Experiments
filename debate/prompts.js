@@ -25,7 +25,8 @@ var prompts = {
         3) It is dark because the sun is behind the earth.
     `,
     summary: `
-        You should ALWAYS summarise the following information into one coherent message, as a reply to the user's message
+        You should summarise the following information into one coherent message, as a reply to the user's message.
+        Feel free to add/remove/change parts of the text to improve the response to the user.
 
 
     `
