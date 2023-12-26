@@ -5,6 +5,8 @@ A bunch of mini-experiments with GPT attempting to augment functionality.
 
 `Thoughts`: In this particular setup, I attempt to make GPT speak in a more conversationally human way
 
+`Debate`: In this particular setup, I use chain-of-thought to generate step by step arguments for an argument.
+
 ## Install
 
 1. `npm i`
