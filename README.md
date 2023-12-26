@@ -1,8 +1,9 @@
 # Chain-of-thoughts GPT experiments
 A bunch of mini-experiments with GPT attempting to augment functionality.
 
-Lookup: In this particular setup, I reiterate information via GPT-3.5 to GPT before GPT-4 responds.
-Thoughts: In this particular setup, I attempt to make GPT speak in a more conversationally human way
+`Lookup`: In this particular setup, I reiterate information via GPT-3.5 to GPT before GPT-4 responds.
+
+`Thoughts`: In this particular setup, I attempt to make GPT speak in a more conversationally human way
 
 ## Install
 
